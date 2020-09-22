@@ -5,7 +5,7 @@ import entities.BusinessAccount;
 import entities.SavingsAccount;
 //import entities.BusinessAccount;
 
-public class Program {
+public class ProgramUpcastingDowncastingExample {
 
 	public static void main(String[] args) {
 		
